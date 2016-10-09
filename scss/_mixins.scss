@@ -2,12 +2,11 @@
   position: relative;
 }
 
-@mixin float-label($label-left: 0, $label-top: 0) {
+@mixin float-label {
   label {
     position: absolute;
-    left: $label-left;
-    top: $label-top;
-    transform-origin: left top;
+    left: 0;
+    top: 0;
     cursor: text;
     font-size: 75%;
     opacity: 1;
@@ -21,21 +20,15 @@
     opacity: 1;
     transition: all .2s;
   }
-  &:placeholder-shown:not(:focus) {
-    &::-webkit-input-placeholder {
+  &:placeholder-shown:not(:focus)::-webkit-input-placeholder {
       opacity: 0;
-    }
   }
 }
 
-@mixin float-label-scaled($label-left: 0, $label-top: 0, $label-scale: 2) {
-  &:placeholder-shown:not(:focus) {
-    + label {
-      left: $label-left;
-      top: $label-top;
-      transform: scale($label-scale);
+@mixin float-label-scaled {
+  &:placeholder-shown:not(:focus) + label {
+      font-size: 150%;
       opacity: .5;
       @content;
-    }
   }
 }
