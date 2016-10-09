@@ -3,6 +3,8 @@
 .has-float-label {
   @include float-label-container;
 
+  @include float-label;
+
   select {
     -webkit-appearance: none;
        -moz-appearance: none;
@@ -13,6 +15,8 @@
     @include float-label-input;
     font-size: inherit;
     padding-top: .5em;
+
+    @include float-label-scaled;
   }
 }
 
