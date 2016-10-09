@@ -1,0 +1,32 @@
+@mixin float-label-container($label-left: 0, $label-top: 0) {
+  position: relative;
+
+  label {
+    position: absolute;
+    left: $label-left;
+    top: $label-top;
+    transform-origin: left top;
+    cursor: text;
+    font-size: 75%;
+    opacity: 1;
+    transition: all .2s;
+  }
+}
+
+@mixin float-label-input($label-left: 0, $label-top: 0, $label-scale: 2) {
+  &::-webkit-input-placeholder {
+    opacity: 1;
+    transition: all .2s;
+  }
+  &:placeholder-shown:not(:focus) {
+    &::-webkit-input-placeholder {
+      opacity: 0;
+    }
+    + label {
+      left: $label-left;
+      top: $label-top;
+      transform: scale($label-scale);
+      opacity: .5;
+    }
+  }
+}

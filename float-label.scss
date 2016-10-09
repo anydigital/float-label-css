@@ -1,0 +1,21 @@
+@import "mixins";
+
+.has-float-label {
+  @include float-label-container;
+
+  select {
+    -webkit-appearance: none;
+       -moz-appearance: none;
+            appearance: none;
+  }
+
+  .form-control {
+    @include float-label-input;
+    font-size: inherit;
+    padding-top: .5em;
+  }
+}
+
+.input-group .has-float-label {
+  display: inline-block;
+}
