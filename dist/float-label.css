@@ -4,9 +4,6 @@
     position: absolute;
     left: 0;
     top: 0;
-    -webkit-transform-origin: left top;
-        -ms-transform-origin: left top;
-            transform-origin: left top;
     cursor: text;
     font-size: 75%;
     opacity: 1;
@@ -26,11 +23,7 @@
     .has-float-label .form-control:placeholder-shown:not(:focus)::-webkit-input-placeholder {
       opacity: 0; }
     .has-float-label .form-control:placeholder-shown:not(:focus) + label {
-      left: 0;
-      top: 0;
-      -webkit-transform: scale(2);
-          -ms-transform: scale(2);
-              transform: scale(2);
+      font-size: 150%;
       opacity: .5; }
 
 .input-group .has-float-label {
