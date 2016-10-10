@@ -6,6 +6,13 @@ Bulletproof CSS-only implementation of Float Label pattern with automatic fallba
 <img src="https://cdn.rawgit.com/tonystar/float-label-css/master/float-label-css.gif" width="460"/>
 
 
+## Demo
+
+No-dependencies demo: https://codepen.io/tonystar/pen/JRLaKw.
+
+Bootstrap 4 demo: https://codepen.io/tonystar/pen/LRdpYZ.
+
+
 ## Usage
 
 Include `float-label.min.css`:
