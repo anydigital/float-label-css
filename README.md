@@ -35,7 +35,7 @@ Wrap `input` and `label` by `.has-float-label`:
 
 Instead of `float-label.min.css` just include pre-built `bootstrap-float-label.min.css`:
 ```html
-<link rel="stylesheet" href="https://cdn.rawgit.com/tonystar/bootstrap-float-label/v1.0.0/dist/bootstrap-float-label.min.css"/>
+<link rel="stylesheet" href="https://cdn.rawgit.com/tonystar/bootstrap-float-label/v4.0.0/dist/bootstrap-float-label.min.css"/>
 ```
 
 Markup is the same. For more details see: https://github.com/tonystar/bootstrap-float-label.
