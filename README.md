@@ -31,6 +31,16 @@ Wrap `input` and `label` by `.has-float-label`:
 **NOTE:** `label` should go after `input`! This is the only drawback in this method.
 
 
+### Bootstrap 4 quick use
+
+Instead of `float-label.min.css` just include pre-built `bootstrap-float-label.min.css`:
+```html
+<link rel="stylesheet" href="https://cdn.rawgit.com/tonystar/bootstrap-float-label/v1.0.0/dist/bootstrap-float-label.min.css"/>
+```
+
+Markup is the same. For more details see: https://github.com/tonystar/bootstrap-float-label.
+
+
 ## Browser support
 
 Any browser with `:placeholder-shown` CSS pseudo-class: http://caniuse.com/#feat=css-placeholder-shown.
