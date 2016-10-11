@@ -3,7 +3,7 @@ Float Label CSS-only
 
 Bulletproof CSS-only implementation of Float Label pattern with automatic fallback for ANY non-supporting browser.
 
-<img src="https://cdn.rawgit.com/tonystar/float-label-css/master/float-label-css.gif" width="460"/>
+<img src="https://cdn.rawgit.com/tonystar/float-label-css/9dd8582/float-label-css.gif" width="400"/>
 
 
 ## Demo
@@ -28,7 +28,7 @@ Wrap `input` and `label` by `.has-float-label`:
 </span>
 ```
 
-**NOTE:** `label` should go after `input`! This is the only drawback of this method.
+**NOTE:** `label` should go after `input`! This is the only drawback in this method.
 
 
 ## Browser support
