@@ -3,6 +3,11 @@ Float Label CSS-only
 
 Bulletproof CSS-only implementation of Float Label pattern with automatic fallback for ANY non-supporting browser.
 
+* No JS!
+* No hacks with `required` and `:valid`!
+* => HTML5 validation support
+* => `<select>` fields support
+
 <img src="https://cdn.rawgit.com/tonystar/float-label-css/9dd8582/float-label-css.gif" width="400"/>
 
 
