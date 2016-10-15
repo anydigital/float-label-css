@@ -1,5 +1,5 @@
-Float Label CSS-only
-====================
+Pure-CSS Float Label. Finally.
+==============================
 
 Bulletproof CSS-only implementation of Float Label pattern with automatic fallback for ANY non-supporting browser.
 
