@@ -2,6 +2,7 @@ Pure-CSS Float Label. Finally.
 ==============================
 
 [![npm version](https://img.shields.io/npm/v/float-label-css.svg)](https://www.npmjs.com/package/float-label-css)
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=flat&label=retweet)](https://twitter.com/tonystarring/status/787217405827317762)
 
 Bulletproof CSS-only implementation of Float Label pattern with automatic fallback for ANY non-supporting browser.
 
