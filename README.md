@@ -54,6 +54,13 @@ Instead of `float-label.min.css` just include pre-built `bootstrap-float-label.m
 Markup is the same. For more details see: https://github.com/tonystar/bootstrap-float-label.
 
 
+## Credits
+
+* [@mds](https://twitter.com/mds) for the [original pattern](http://mds.is/float-label-pattern/)
+* [@chriscoyier](https://twitter.com/chriscoyier) for the [`input:focus + label`](https://css-tricks.com/float-labels-css/)
+* [@thatemil](https://twitter.com/thatemil) for the [`:placeholder-shown`](https://thatemil.com/blog/2016/01/23/floating-label-no-js-pure-css/)
+
+
 ## Browser support
 
 Any browser with `:placeholder-shown` CSS pseudo-class: http://caniuse.com/#feat=css-placeholder-shown.
