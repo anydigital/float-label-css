@@ -11,7 +11,7 @@
             appearance: none;
   }
 
-  .form-control {
+  input, select {
     @include float-label-input;
     font-size: inherit;
     padding-top: 1em;
@@ -30,8 +30,4 @@
       border-color: rgba(0,0,0,.5);
     }
   }
-}
-
-.input-group .has-float-label {
-  display: inline-block;
 }
