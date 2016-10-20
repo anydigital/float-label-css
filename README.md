@@ -28,7 +28,7 @@ Bulletproof CSS-only implementation of Float Label pattern with automatic fallba
 
 Include `float-label.min.css`:
 ```html
-<link rel="stylesheet" href="https://cdn.rawgit.com/tonystar/float-label-css/v1.0.0/dist/float-label.min.css"/>
+<link rel="stylesheet" href="https://cdn.rawgit.com/tonystar/float-label-css/v1.0.1/dist/float-label.min.css"/>
 ```
 
 Use `<label>` with `.has-float-label` class as a wrapper for `<input>` <sup>**v1.0.1+**</sup>:
