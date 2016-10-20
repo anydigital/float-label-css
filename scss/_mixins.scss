@@ -1,9 +1,10 @@
 @mixin float-label-container {
+  display: block;
   position: relative;
 }
 
 @mixin float-label {
-  label {
+  label, > span {
     position: absolute;
     left: 0;
     top: 0;
@@ -26,7 +27,7 @@
 }
 
 @mixin float-label-scaled {
-  &:placeholder-shown:not(:focus) + label {
+  &:placeholder-shown:not(:focus) + * {
       font-size: 150%;
       opacity: .5;
       @content;
