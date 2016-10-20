@@ -8,21 +8,20 @@ Pure-CSS Float Label. Finally.
 
 Bulletproof CSS-only implementation of Float Label pattern with automatic fallback for ANY non-supporting browser.
 
-* No JS!
+* No JS! Pure CSS!
 * No hacks with `required` and `:valid`!
-* => HTML5 validation support
-* => `<select>` fields support
+* ↳ HTML5 validation support!
+* Compatible with `<select>` fields!
+* No need to define `for="..."` attribute on `<label>`! <sup>**v1.0.1+**</sup>
 
 <img src="https://cdn.rawgit.com/tonystar/float-label-css/9dd8582/float-label-css.gif" width="400"/>
 
 
 ## Demo
 
-No-dependencies demo: https://codepen.io/tonystar/pen/JRLaKw.
-
-Bootstrap 3 demo: https://codepen.io/tonystar/pen/ALaZrV.
-
-Bootstrap 4 demo: https://codepen.io/tonystar/pen/LRdpYZ.
+* [No-dependencies demo](https://codepen.io/tonystar/pen/JRLaKw)
+* [Bootstrap 3 demo](https://codepen.io/tonystar/pen/ALaZrV)
+* [Bootstrap 4 demo](https://codepen.io/tonystar/pen/LRdpYZ)
 
 
 ## Usage
@@ -32,15 +31,32 @@ Include `float-label.min.css`:
 <link rel="stylesheet" href="https://cdn.rawgit.com/tonystar/float-label-css/v1.0.0/dist/float-label.min.css"/>
 ```
 
-Wrap `input` and `label` by `.has-float-label`:
+Use `<label>` with `.float-label` class as a wrapper for `<input>` <sup>**v1.0.1+**</sup>:
 ```html
-<span class="has-float-label">
-  <input class="form-control" id="email" type="email" placeholder="box@example.com"/>
-  <label for="email">Email</label>
-</span>
+<label class="float-label">
+  <input type="email" placeholder="email@example.com"/>
+  <span>Email</span>
+</label>
 ```
+**NOTE**:
 
-**NOTE:** `label` should go after `input`! This is the only drawback in this method.
+1. W3C [allows this](http://www.w3.org/TR/html401/interact/forms.html#edef-LABEL).
+2. `<span>` should go after `<input>`.
+
+***
+
+Alternatively wrap `<input>` and `<label>` by `.has-float-label`:
+```html
+<div class="has-float-label">
+  <input id="email" type="email" placeholder="email@example.com"/>
+  <label for="email">Email</label>
+</div>
+```
+**NOTE**:
+
+1. W3C [allows this](http://www.w3.org/TR/html401/interact/forms.html#edef-LABEL) as well.
+2. `<label>` should go after `<input>`.
+3. `for="..."` attribute is required on `<label>`.
 
 
 ### Quick use: Bootstrap
