@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Float Label</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css"/>
+  <link rel="stylesheet" href="dist/float-label.css"/>
+  <style>
+    body {
+      position: relative;
+      max-width: 20rem;
+      background: #eee;
+      margin: 2rem auto;
+    }
+    fieldset {
+      padding: 1.5rem;
+      background: white;
+    }
+    input {
+      margin-bottom: .5rem;
+    }
+    button {
+      background: #333;
+      color: white;
+      border: 0;
+      padding: .5em 1em;
+      margin-top: 1rem;
+    }
+    a {
+      position: absolute;
+      z-index: -1;
+      width: 100px;
+      top: 3.3rem;
+      left: -21px;
+      transition: all .2s;
+    }
+    a:hover {
+      left: -62px;
+      z-index: 0;
+    }
+  </style>
+</head>
+<body>
+  <fieldset>
+    <legend>Sign up</legend>
+
+    <div class="has-float-label">
+      <input type="text" placeholder="First Last"/>
+      <label>Name</label>
+    </div>
+
+    <div class="has-float-label">
+      <input type="email" placeholder="email@example.com"/>
+      <label>Email</label>
+    </div>
+
+    <div class="has-float-label">
+      <input type="password" placeholder="••••••••"/>
+      <label>Password</label>
+    </div>
+
+    <div class="has-float-label">
+      <select>
+        <option>United States</option>
+        <option>Canada</option>
+      </select>
+      <label>Country</label>
+    </div>
+
+    <button>Sign up</button>
+  </fieldset>
+
+  <!---->
+  <a href="https://github.com/tonystar/float-label-css" target="_blank">
+    <img src="https://img.shields.io/github/stars/tonystar/float-label-css.svg?style=social&label=Star"/>
+  </a>
+</body>
+</html>
