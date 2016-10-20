@@ -6,6 +6,9 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css"/>
   <link rel="stylesheet" href="dist/float-label.css"/>
   <style>
+    * {
+      box-sizing: border-box;
+    }
     body {
       position: relative;
       max-width: 20rem;
@@ -16,7 +19,8 @@
       padding: 1.5rem;
       background: white;
     }
-    input {
+    input, select {
+      width: 100%;
       margin-bottom: .5rem;
     }
     button {
@@ -27,16 +31,25 @@
       margin-top: 1rem;
     }
     a {
+      display: block;
+      padding: 10px;
       position: absolute;
       z-index: -1;
-      width: 100px;
-      top: 3.3rem;
-      left: -21px;
+      top: 1rem;
+      left: 100%;
+      margin-left: -65px;
       transition: all .2s;
     }
     a:hover {
-      left: -62px;
-      z-index: 0;
+      margin-left: 0;
+    }
+    .input-group {
+      display: table;
+      width: 100%;
+    }
+    .input-group > * {
+      display: table-cell;
+      width: 50%;
     }
   </style>
 </head>
@@ -44,27 +57,44 @@
   <fieldset>
     <legend>Sign up</legend>
 
+    <div class="input-group">
     <div class="has-float-label">
-      <input type="text" placeholder="First Last"/>
-      <label>Name</label>
+      <input id="first" type="text" placeholder="Name"/>
+      <label for="first">First</label>
     </div>
 
     <div class="has-float-label">
+      <input id="last" type="text" placeholder="Surname"/>
+      <label for="last">Last</label>
+    </div>
+    </div>
+
+    <label class="has-float-label">
       <input type="email" placeholder="email@example.com"/>
-      <label>Email</label>
-    </div>
+      <span>Email</span>
+    </label>
 
-    <div class="has-float-label">
+    <label class="has-float-label">
       <input type="password" placeholder="••••••••"/>
-      <label>Password</label>
-    </div>
+      <span>Password</span>
+    </label>
 
-    <div class="has-float-label">
+    <div class="input-group">
+    <label class="has-float-label">
       <select>
         <option>United States</option>
         <option>Canada</option>
       </select>
-      <label>Country</label>
+      <span>Country</span>
+    </label>
+
+    <div class="has-float-label">
+      <select id="state">
+        <option>New York</option>
+        <option>Texas</option>
+      </select>
+      <label for="state">State</label>
+    </div>
     </div>
 
     <button>Sign up</button>
