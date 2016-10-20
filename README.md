@@ -31,9 +31,9 @@ Include `float-label.min.css`:
 <link rel="stylesheet" href="https://cdn.rawgit.com/tonystar/float-label-css/v1.0.0/dist/float-label.min.css"/>
 ```
 
-Use `<label>` with `.float-label` class as a wrapper for `<input>` <sup>**v1.0.1+**</sup>:
+Use `<label>` with `.has-float-label` class as a wrapper for `<input>` <sup>**v1.0.1+**</sup>:
 ```html
-<label class="float-label">
+<label class="has-float-label">
   <input type="email" placeholder="email@example.com"/>
   <span>Email</span>
 </label>
