@@ -6,6 +6,8 @@ Pure-CSS Float Label. Finally.
 [![dribbble](https://img.shields.io/badge/dribbble-%E2%99%A5-ff1493.svg)](https://dribbble.com/shots/3018466-Float-Label-CSS-only)
 [![codepen](https://img.shields.io/badge/code-pen-d3d3d3.svg)](https://codepen.io/tonystar/pen/JRLaKw)
 
+> Now shipped with [Bootstrap Kit](https://bootstrap-kit.com/)!
+
 Bulletproof CSS-only implementation of Float Label pattern with automatic fallback for ANY non-supporting browser.
 
 * No JS! Pure CSS!
