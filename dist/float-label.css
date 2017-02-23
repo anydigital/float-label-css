@@ -17,7 +17,10 @@
   -moz-appearance: none;
   appearance: none;
 }
-.has-float-label input, .has-float-label select {
+.has-float-label textarea {
+  width: 100%;
+}
+.has-float-label input, .has-float-label select, .has-float-label textarea {
   font-size: inherit;
   padding-top: 1em;
   margin-bottom: 2px;
@@ -25,20 +28,42 @@
   border-radius: 0;
   border-bottom: 2px solid rgba(0, 0, 0, 0.1);
 }
-.has-float-label input::-webkit-input-placeholder, .has-float-label select::-webkit-input-placeholder {
+.has-float-label input::-webkit-input-placeholder, .has-float-label select::-webkit-input-placeholder, .has-float-label textarea::-webkit-input-placeholder {
   opacity: 1;
   -webkit-transition: all .2s;
           transition: all .2s;
 }
-.has-float-label input:placeholder-shown:not(:focus)::-webkit-input-placeholder, .has-float-label select:placeholder-shown:not(:focus)::-webkit-input-placeholder {
+.has-float-label input::-moz-placeholder, .has-float-label select::-moz-placeholder, .has-float-label textarea::-moz-placeholder {
+  opacity: 1;
+  transition: all .2s;
+}
+.has-float-label input:-ms-input-placeholder, .has-float-label select:-ms-input-placeholder, .has-float-label textarea:-ms-input-placeholder {
+  opacity: 1;
+  transition: all .2s;
+}
+.has-float-label input::placeholder, .has-float-label select::placeholder, .has-float-label textarea::placeholder {
+  opacity: 1;
+  -webkit-transition: all .2s;
+          transition: all .2s;
+}
+.has-float-label input:placeholder-shown:not(:focus)::-webkit-input-placeholder, .has-float-label select:placeholder-shown:not(:focus)::-webkit-input-placeholder, .has-float-label textarea:placeholder-shown:not(:focus)::-webkit-input-placeholder {
   opacity: 0;
 }
-.has-float-label input:placeholder-shown:not(:focus) + *, .has-float-label select:placeholder-shown:not(:focus) + * {
+.has-float-label input:placeholder-shown:not(:focus)::-moz-placeholder, .has-float-label select:placeholder-shown:not(:focus)::-moz-placeholder, .has-float-label textarea:placeholder-shown:not(:focus)::-moz-placeholder {
+  opacity: 0;
+}
+.has-float-label input:placeholder-shown:not(:focus):-ms-input-placeholder, .has-float-label select:placeholder-shown:not(:focus):-ms-input-placeholder, .has-float-label textarea:placeholder-shown:not(:focus):-ms-input-placeholder {
+  opacity: 0;
+}
+.has-float-label input:placeholder-shown:not(:focus)::placeholder, .has-float-label select:placeholder-shown:not(:focus)::placeholder, .has-float-label textarea:placeholder-shown:not(:focus)::placeholder {
+  opacity: 0;
+}
+.has-float-label input:placeholder-shown:not(:focus) + *, .has-float-label select:placeholder-shown:not(:focus) + *, .has-float-label textarea:placeholder-shown:not(:focus) + * {
   font-size: 150%;
   opacity: .5;
   top: .25em;
 }
-.has-float-label input:focus, .has-float-label select:focus {
+.has-float-label input:focus, .has-float-label select:focus, .has-float-label textarea:focus {
   outline: none;
   border-color: rgba(0, 0, 0, 0.5);
 }
