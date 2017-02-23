@@ -11,7 +11,11 @@
             appearance: none;
   }
 
-  input, select {
+  textarea {
+    width: 100%;
+  }
+
+  input, select, textarea {
     @include float-label-input;
     font-size: inherit;
     padding-top: 1em;
