@@ -13,7 +13,7 @@ Bulletproof CSS-only implementation of Float Label pattern with automatic fallba
 * No JS! Pure CSS!
 * No hacks with `required` and `:valid`!
 * ↳ HTML5 validation support!
-* Compatible with `<select>` fields!
+* Compatible with `<select>` and `<textarea>` fields!
 * No need to define `for="..."` attribute on `<label>`! <sup>**v1.0.1+**</sup>
 
 <img src="https://cdn.rawgit.com/tonystar/float-label-css/9dd8582/float-label-css.gif" width="400"/>
