@@ -1,6 +1,6 @@
 {
   "name": "float-label-css",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Bulletproof CSS-only implementation of Float Label pattern with automatic fallback for ANY non-supporting browser.",
   "repository": {
     "type": "git",
