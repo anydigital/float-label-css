@@ -17,7 +17,7 @@
 }
 
 @mixin float-label-input {
-  &::-webkit-input-placeholder {
+  &::placeholder {
     opacity: 1;
     transition: all .2s;
   }
