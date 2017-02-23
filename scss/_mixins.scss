@@ -21,7 +21,7 @@
     opacity: 1;
     transition: all .2s;
   }
-  &:placeholder-shown:not(:focus)::-webkit-input-placeholder {
+  &:placeholder-shown:not(:focus)::placeholder {
       opacity: 0;
   }
 }
