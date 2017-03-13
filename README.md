@@ -1,6 +1,7 @@
 Pure-CSS Float Label. Finally.
 ==============================
 
+[![CDNJS](https://img.shields.io/cdnjs/v/float-label-css.svg)](https://cdnjs.com/libraries/float-label-css)
 [![npm version](https://img.shields.io/npm/v/float-label-css.svg)](https://www.npmjs.com/package/float-label-css)
 [![retweet](https://img.shields.io/badge/re-tweet-00bfff.svg)](https://twitter.com/tonystarring/status/787217405827317762)
 [![dribbble](https://img.shields.io/badge/dribbble-%E2%99%A5-ff1493.svg)](https://dribbble.com/shots/3018466-Float-Label-CSS-only)
