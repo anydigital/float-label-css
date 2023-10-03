@@ -2,15 +2,23 @@
   display: block;
   position: relative;
 }
-.has-float-label label, .has-float-label > span {
-  position: absolute;
-  left: 0;
-  top: 0;
-  cursor: text;
-  font-size: 75%;
-  opacity: 1;
-  -webkit-transition: all .2s;
-          transition: all .2s;
+.has-float-label label,
+.has-float-label>span:not(.select2) {
+    position: absolute;
+    left: 0;
+    top: 0;
+    cursor: text;
+    font-size: 75%;
+    opacity: 1;
+    -webkit-transition: all .2s;
+    transition: all .2s;
+    top: -.5em;
+    left: 0.75rem;
+    z-index: 3;
+    line-height: 1;
+    padding: 0 1px;
+}
+
 }
 .has-float-label select {
   -webkit-appearance: none;
