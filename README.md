@@ -86,9 +86,10 @@ Now, also includes [Sveltia CMS](https://github.com/sveltia/sveltia-cms). All of
 <div class="breakout-item" data-theme="dark">
 
 ```treeview
-_data/site.yml              # YOUR site-wide metadata
-_includes/default.liquid    # YOUR layout template
-*.md                        # YOUR content (editable via CMS!)
+_includes/
+└── default.liquid    # YOUR layout template
+_data/site.yml        # YOUR site-wide metadata
+*.md                  # YOUR content (editable via CMS!)
 ```
 
 </div>
@@ -96,10 +97,10 @@ _includes/default.liquid    # YOUR layout template
 ### Under the hood
 
 ```treeview
-Gemfile                     # Jekyll gems
-_config.yml                 # Jekyll config
-package.json                # 11ty packages
-admin/                      # Sveltia CMS configs
+Gemfile               # Jekyll gems
+_config.yml           # Jekyll config
+package.json          # 11ty packages
+admin/                # Sveltia CMS configs
 ```
 
 ---

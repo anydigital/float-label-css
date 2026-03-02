@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^4.0.0-alpha.6",
-    "@anydigital/bricks": "^0.27.0-alpha.4",
+    "@anydigital/bricks": "^0.27.0-alpha.6",
     "@anydigital/eleventy-bricks": "^0.28.0-alpha.3"
   },
   "repository": {
