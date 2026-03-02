@@ -96,10 +96,10 @@ _includes/default.liquid    # YOUR layout template
 ### Under the hood
 
 ```treeview
-admin/                      # Sveltia CMS configs
 Gemfile                     # Jekyll gems
 _config.yml                 # Jekyll config
 package.json                # 11ty packages
+admin/                      # Sveltia CMS configs
 ```
 
 ---
