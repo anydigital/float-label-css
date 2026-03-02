@@ -4,10 +4,10 @@ permalink: /
 
 # 🥷 *Blade*switch
 
-![GitHub Release](https://img.shields.io/github/v/release/anydigital/bladeswitch?color=black&label=%20)
-![GitHub deployments](https://img.shields.io/github/deployments/anydigital/bladeswitch/github-pages?label=Jekyll&logo=github)
-![Netlify](https://img.shields.io/netlify/ec716489-5d5d-43cb-9fa1-892f8479436e?label=Eleventy&logo=netlify)
-[![GitHub Repo stars](https://img.shields.io/github/stars/anydigital/bladeswitch?label=GitHub)](https://github.com/anydigital/bladeswitch)
+![](https://img.shields.io/github/v/release/anydigital/bladeswitch?color=black&label=%20)
+![](https://img.shields.io/github/deployments/anydigital/bladeswitch/github-pages?label=Jekyll&logo=github)
+![](https://img.shields.io/netlify/ec716489-5d5d-43cb-9fa1-892f8479436e?label=Eleventy&logo=netlify)
+[![](https://img.shields.io/github/stars/anydigital/bladeswitch?label=GitHub)](https://github.com/anydigital/bladeswitch)
 
 The only starter compatible with _BOTH_ (!) Jekyll⇋Eleventy at the same time.
 
