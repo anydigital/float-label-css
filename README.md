@@ -102,11 +102,11 @@ _config.yml                 # Jekyll config
 package.json                # 11ty packages
 ```
 
-<br>Repo: https://github.com/anydigital/bladeswitch
+---
+
+<big>Repo: https://github.com/anydigital/bladeswitch</big>
 
 Advanced usage: https://github.com/anydigital/sveleven for `11ty`+`.njk`+`Tailwind`
-
----
 
 Featured in:
 
