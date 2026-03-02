@@ -15,7 +15,7 @@ It allows you to develop locally without [Ruby friction](https://any.digital/tri
 
 Now, also includes [Sveltia CMS](https://github.com/sveltia/sveltia-cms). All of this — with only <big>3</big> direct dependencies:
 
-## Minimal dependencies
+## Light dependencies
 
 <table class="borderless">
   <tr>
