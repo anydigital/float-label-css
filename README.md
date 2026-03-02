@@ -9,7 +9,11 @@ permalink: /
 ![Bladeswitch using 11ty on Netlify](https://img.shields.io/netlify/ec716489-5d5d-43cb-9fa1-892f8479436e?logo=eleventy&label=)
 [![](https://img.shields.io/github/stars/anydigital/bladeswitch?label=GitHub)](https://github.com/anydigital/bladeswitch)
 
-The only starter compatible with _BOTH_ (!) Jekyll⇋Eleventy at the same time. Easy to start, easy to switch.
+Ultra-lightweight starter compatible with _BOTH_ (!) Jekyll⇋Eleventy at the same time.
+
+## Killer *switch* features
+
+Easy to start, easy to switch:
 
 It allows you to develop locally without [Ruby friction](https://any.digital/tricks/ruby/) (thanks to 11ty), and deploy natively to GitHub Pages using built-in Jekyll engine — no GitHub Actions required!
 
