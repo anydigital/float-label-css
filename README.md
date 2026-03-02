@@ -11,7 +11,7 @@ permalink: /
 
 <big>Ultra-lightweight starter compatible with _BOTH_ Jekyll⇋and⇋Eleventy at the same time.</big>
 
-## Killer _switch_-features
+## Killer*switch* features
 
 Easy to start, easy to switch:
 
