@@ -97,8 +97,8 @@ _data/site.yml        # YOUR site-wide metadata
 ### Under the hood
 
 ```treeview
-Gemfile               # Jekyll gems
 _config.yml           # Jekyll config
+Gemfile               # Jekyll gems
 package.json          # 11ty packages
 admin/                # Sveltia CMS configs
 ```
