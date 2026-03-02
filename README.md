@@ -15,7 +15,7 @@ It allows you to develop locally without [Ruby friction](https://any.digital/tri
 
 Now, also includes [Sveltia CMS](https://github.com/sveltia/sveltia-cms). All of this — with only <big>3</big> direct dependencies:
 
-## Minimal Dependencies
+## Minimal dependencies
 
 <table class="borderless">
   <tr>
@@ -55,7 +55,7 @@ Now, also includes [Sveltia CMS](https://github.com/sveltia/sveltia-cms). All of
 
 ---
 
-## Quick Deploy
+## Quick start
 
 <div class="grid"><div>
 
@@ -81,7 +81,7 @@ Now, also includes [Sveltia CMS](https://github.com/sveltia/sveltia-cms). All of
 
 ---
 
-## All You Need
+## All you need
 
 <div class="breakout-item" data-theme="dark">
 
@@ -93,7 +93,7 @@ _includes/default.liquid    # YOUR layout template
 
 </div>
 
-### Under the Hood
+### Under the hood
 
 ```treeview
 admin/                      # Sveltia CMS configs
@@ -103,6 +103,8 @@ package.json                # 11ty packages
 ```
 
 <br>Repo: https://github.com/anydigital/bladeswitch
+
+Advanced usage: https://github.com/anydigital/sveleven for `11ty`+`.njk`+`Tailwind`
 
 ---
 
