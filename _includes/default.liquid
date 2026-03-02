@@ -5,10 +5,11 @@
 {% endcapture %}
 
 {% capture body %}
-  <main class="container breakout breakout-all">
-    <header><small>{{ site.header | markdownify }}</small></header>
+  <main class="container breakout-all">
     {{ content }}
-    <footer style="text-align: center"><hr><small>{{ site.footer | markdownify }}</small></footer>
+    <footer style="text-align: center"><hr>
+			<small>{{ site.footer | markdownify }}</small>
+		</footer>
   </main>
 {% endcapture %}
 
