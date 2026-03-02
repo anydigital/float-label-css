@@ -10,8 +10,6 @@ styles:
 scripts:
   - https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-core.min.js
   - https://cdn.jsdelivr.net/npm/prismjs@1/plugins/treeview/prism-treeview.min.js
-header: |-
-  Meet:
 footer: |-
   Powered by [11ty](https://github.com/11ty/eleventy)
   × [Jekyll](https://github.com/jekyll/jekyll)
