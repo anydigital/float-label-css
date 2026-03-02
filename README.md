@@ -109,7 +109,7 @@ admin/                # Sveltia CMS configs
 
 <big>Repo: https://github.com/anydigital/bladeswitch</big>
 
-Advanced usage: https://github.com/anydigital/sveleven for `11ty`+`.njk`+`Tailwind`
+For advanced usage of Eleventy with Nunjucks and Tailwind — see https://github.com/anydigital/sveleven
 
 Featured in:
 
