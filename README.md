@@ -104,6 +104,8 @@ package.json                # 11ty packages
 
 ---
 
+## More info
+
 <big>Repo: https://github.com/anydigital/bladeswitch</big>
 
 Advanced usage: https://github.com/anydigital/sveleven for `11ty`+`.njk`+`Tailwind`
