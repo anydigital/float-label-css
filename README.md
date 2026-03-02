@@ -119,4 +119,4 @@ Featured in:
 - https://sveltiacms.app/en/docs/frameworks/eleventy
 - https://sveltiacms.app/en/docs/frameworks/jekyll
 - https://any.digital/tricks/11ty/#min-starters
-- https://sveleven.com
+- https://sveleven.com starter
