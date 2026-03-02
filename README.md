@@ -5,13 +5,13 @@ permalink: /
 # 🥷 *Blade*switch
 
 ![](https://img.shields.io/github/v/release/anydigital/bladeswitch?color=black&label=%20)
-![Bladeswitch using Jekyll on GitHub Pages](https://img.shields.io/github/deployments/anydigital/bladeswitch/github-pages?logo=jekyll&label=)
-![Bladeswitch using 11ty on Netlify](https://img.shields.io/netlify/ec716489-5d5d-43cb-9fa1-892f8479436e?logo=eleventy&label=)
+![](https://img.shields.io/github/deployments/anydigital/bladeswitch/github-pages?logo=jekyll&label= "Bladeswitch using Jekyll on GitHub Pages")
+![](https://img.shields.io/netlify/ec716489-5d5d-43cb-9fa1-892f8479436e?logo=eleventy&label= "Bladeswitch using 11ty on Netlify")
 [![](https://img.shields.io/github/stars/anydigital/bladeswitch?label=GitHub)](https://github.com/anydigital/bladeswitch)
 
-Ultra-lightweight starter compatible with _BOTH_ Jekyll⇋and⇋Eleventy at the same time.
+<big>Ultra-lightweight starter compatible with _BOTH_ Jekyll⇋and⇋Eleventy at the same time.</big>
 
-## Killer *switch* features
+## Killer _switch_-features
 
 Easy to start, easy to switch:
 
@@ -98,7 +98,7 @@ _data/site.yml        # YOUR site-wide metadata
 
 </div>
 
-### Under the hood
+Under the hood:
 
 ```treeview
 _config.yml           # Jekyll config
