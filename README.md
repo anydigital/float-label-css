@@ -9,7 +9,7 @@ permalink: /
 ![Bladeswitch using 11ty on Netlify](https://img.shields.io/netlify/ec716489-5d5d-43cb-9fa1-892f8479436e?logo=eleventy&label=)
 [![](https://img.shields.io/github/stars/anydigital/bladeswitch?label=GitHub)](https://github.com/anydigital/bladeswitch)
 
-Ultra-lightweight starter compatible with _BOTH_ (!) Jekyll⇋and⇋Eleventy at the same time.
+Ultra-lightweight starter compatible with _BOTH_ Jekyll⇋and⇋Eleventy at the same time.
 
 ## Killer *switch* features
 
