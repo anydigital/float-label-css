@@ -3,6 +3,7 @@
 backend:
   name: github
   repo: YOUR_USER/REPO # @TODO: replace with your own repo!
+  branch: main
 
 media_folder: /media
 # public_folder: /media
