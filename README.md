@@ -124,3 +124,4 @@ Featured in:
 - https://sveltiacms.app/en/docs/frameworks/jekyll
 - https://any.digital/tricks/11ty/#min-starters
 - https://sveleven.com starter
+- https://github.com/anydigital/awesome-build-awesome
