@@ -11,7 +11,7 @@ permalink: /
 
 <big>Ultra-lightweight starter compatible with _BOTH_ Jekyll⇋and⇋Eleventy at the same time.</big>
 
-## Killer *switch* features
+## Killer _switch_ features
 
 Easy to start, easy to switch:
 
@@ -38,13 +38,13 @@ Now, also includes [Sveltia CMS](https://github.com/sveltia/sveltia-cms). All of
       >via <a href="https://github.com/anydigital/bladeswitch/blob/main/Gemfile" target="_blank">Gemfile</a></sup></pre>
     </td>
     <td>
-      <pre><h3>1. <a href="https://github.com/anydigital/eleventy-bricks" target="_blank">eleventy-bricks</a></h3><sup
+      <pre><h3>1. <a href="https://github.com/anydigital/eleventy-blades" target="_blank">eleventy-blades</a></h3><sup
       >via <a href="https://github.com/anydigital/bladeswitch/blob/main/package.json" target="_blank">package.json</a></sup></pre>
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <pre><h3>2. <a href="https://github.com/anydigital/bricks" target="_blank">bricks<small>-theme</small></a></h3><sup
+      <pre><h3>2. <a href="https://github.com/anydigital/blades" target="_blank">blades<small>-theme</small></a></h3><sup
       >as remote_theme via <a href="https://github.com/anydigital/bladeswitch/blob/main/_config.yml#L1" target="_blank">_config.yml</a
       > or via <a href="https://github.com/anydigital/bladeswitch/blob/main/package.json" target="_blank">package.json</a> for 11ty</sup></pre>
     </td>

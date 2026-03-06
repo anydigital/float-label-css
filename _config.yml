@@ -1,7 +1,7 @@
-remote_theme: anydigital/bricks@v0.27.0-alpha.6
+remote_theme: anydigital/blades@v0.27.0-alpha.6
 plugins:
   - jekyll-remote-theme
-# theme: bricks
+# theme: blades
 
 layouts_dir: _includes # 11ty parity
 

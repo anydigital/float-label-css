@@ -5,8 +5,8 @@ favicon: "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox
 styles:
   - https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css
   - https://cdn.jsdelivr.net/npm/prismjs@1/plugins/treeview/prism-treeview.min.css
-  - /assets/bricks.css
-  - /assets/bricks.theme.css
+  - /assets/blades.css
+  - /assets/blades.theme.css
 scripts:
   - https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-core.min.js
   - https://cdn.jsdelivr.net/npm/prismjs@1/plugins/treeview/prism-treeview.min.js
