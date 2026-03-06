@@ -9,7 +9,7 @@ permalink: /
 ![](https://img.shields.io/netlify/ec716489-5d5d-43cb-9fa1-892f8479436e?logo=eleventy&label= "Bladeswitch using 11ty on Netlify")
 [![](https://img.shields.io/github/stars/anydigital/bladeswitch?label=GitHub)](https://github.com/anydigital/bladeswitch)
 
-<big>Ultra-lightweight starter compatible with _BOTH_ Jekyll⇋and⇋Eleventy at the same time.</big>
+<big>Ultra-lightweight starter compatible with _BOTH_ Jekyll ⇋ and ⇋ Build Awesome (11ty) at the same time.</big>
 
 ## Killer _switch_ features
 
@@ -28,7 +28,7 @@ Now, also includes [Sveltia CMS](https://github.com/sveltia/sveltia-cms). All of
       <sup><a href="https://anydigital.github.io/bladeswitch/" target="_blank">PREVIEW</a></sup>
     </th>
     <th>
-      🥷 × <big>Eleventy</big>&nbsp;
+      🥷 × <big>Build Awesome / 11ty</big>&nbsp;
       <sup><a href="https://bladeswitch.netlify.app/" target="_blank">PREVIEW</a></sup>
     </th>
   </tr>
@@ -78,7 +78,7 @@ Now, also includes [Sveltia CMS](https://github.com/sveltia/sveltia-cms). All of
 ###### <mark>B.</mark> Fully preconfigured:
 
 <a href="https://app.netlify.com/start/deploy?repository=https://github.com/anydigital/bladeswitch" target="_blank" role="button" class="contrast">
-  Using Eleventy on Netlify
+  Using 11ty (Build Awesome) on Netlify
 </a>
 
 </div></div>
@@ -111,9 +111,7 @@ admin/                # Sveltia CMS configs
 
 ## More info
 
-<big>https://github.com/anydigital/bladeswitch repo</big>
-
-Advanced version of *Blade*switch for Eleventy with Nunjucks, Tailwind and multisiting: https://github.com/anydigital/sveleven
+<big>Repo: https://github.com/anydigital/bladeswitch</big>
 
 Featured in:
 
