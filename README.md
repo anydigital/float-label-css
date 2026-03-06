@@ -119,9 +119,6 @@ Featured in:
 
 - https://11tybundle.dev/starters/
 - https://www.11ty.dev/docs/starter/
-- https://sveltiacms.app/en/docs/start#starter-templates
-- https://sveltiacms.app/en/docs/frameworks/eleventy
-- https://sveltiacms.app/en/docs/frameworks/jekyll
-- https://any.digital/tricks/11ty/#min-starters
-- https://sveleven.com starter
+- https://sveltiacms.app/en/docs/start & [11ty](https://sveltiacms.app/en/docs/frameworks/eleventy) & [Jekyll](https://sveltiacms.app/en/docs/frameworks/jekyll)
+- https://any.digital/tricks/build-awesome-11ty/#min-starters
 - https://github.com/anydigital/awesome-11ty-build-awesome
