@@ -1,7 +1,7 @@
 {
   "private": "true",
   "name": "bladeswitch",
-  "version": "0.4.2",
+  "version": "0.5.0",
   "type": "module",
   "scripts": {
     "start": "npm run 11ty -- --serve",
