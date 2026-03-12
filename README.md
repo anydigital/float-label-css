@@ -11,7 +11,7 @@ permalink: /
 
 <big>Ultra-lightweight starter compatible with _BOTH_ Jekyll ⇋ and ⇋ Build Awesome (11ty) at the same time.</big>
 
-## Killer _switch_ features
+## Killer features
 
 Easy to start, easy to switch:
 
@@ -119,4 +119,5 @@ Featured in:
 - https://www.11ty.dev/docs/starter/
 - https://sveltiacms.app/en/docs/start & [11ty](https://sveltiacms.app/en/docs/frameworks/eleventy) & [Jekyll](https://sveltiacms.app/en/docs/frameworks/jekyll)
 - https://any.digital/tricks/build-awesome-11ty/#min-starters
+- https://build.blades.ninja/ starter
 - https://github.com/anydigital/awesome-11ty-build-awesome
