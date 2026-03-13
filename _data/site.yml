@@ -12,6 +12,7 @@ scripts:
   - https://cdn.jsdelivr.net/npm/prismjs@1/plugins/treeview/prism-treeview.min.js
 footer: |-
   Made with sharp [Blades](https://github.com/anydigital/blades)
-  by <a href="https://any.digital/" target="_blank"><em>Any</em>digital</a> © 2025–{{ year }}
+  by <a href="https://any.digital/" target="_blank"><em>Any</em>digital</a>
+  © 2026
 
   [![](https://img.shields.io/github/stars/anydigital/bladeswitch?label=🥷&logo=%20)](https://github.com/anydigital/bladeswitch)
