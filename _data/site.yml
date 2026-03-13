@@ -11,9 +11,7 @@ scripts:
   - https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-core.min.js
   - https://cdn.jsdelivr.net/npm/prismjs@1/plugins/treeview/prism-treeview.min.js
 footer: |-
-  Powered by [11ty](https://github.com/11ty/eleventy)
-  × [Jekyll](https://github.com/jekyll/jekyll)
-  × [*Any*digital](https://any.digital/)
-  © 2026
+  Made with sharp [Blades](https://github.com/anydigital/blades)
+  by <a href="https://any.digital/" target="_blank"><em>Any</em>digital</a> © 2025–{{ year }}
 
-  [![GitHub Repo stars](https://img.shields.io/github/stars/anydigital/bladeswitch?label=🥷&logo=%20)](https://github.com/anydigital/bladeswitch)
+  [![](https://img.shields.io/github/stars/anydigital/bladeswitch?label=🥷&logo=%20)](https://github.com/anydigital/bladeswitch)
