@@ -114,11 +114,11 @@ admin/                # Sveltia CMS configs
 
 <big>Repo: https://github.com/anydigital/bladeswitch</big>
 
-Featured in:
+Featured by:
 
 - https://11tybundle.dev/starters/
 - https://www.11ty.dev/docs/starter/
-- https://sveltiacms.app/en/docs/start & [11ty](https://sveltiacms.app/en/docs/frameworks/eleventy) & [Jekyll](https://sveltiacms.app/en/docs/frameworks/jekyll)
-- https://any.digital/tricks/build-awesome-11ty/#min-starters
+- https://sveltiacms.app/en/docs/start for [11ty](https://sveltiacms.app/en/docs/frameworks/eleventy) & [Jekyll](https://sveltiacms.app/en/docs/frameworks/jekyll)
 - https://build.blades.ninja/ starter
+- https://any.digital/tricks/build-awesome-11ty/#min-starters
 - https://github.com/anydigital/awesome-11ty-build-awesome
