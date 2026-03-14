@@ -6,9 +6,9 @@ permalink: /
 
 <big>Ultra-lightweight starter compatible with _BOTH_ Jekyll ⇋ and ⇋ Build Awesome (11ty) at the same time.</big>
 
-[![](https://img.shields.io/badge/Demo-black?style=for-the-badge)](https://bladeswitch.com/)
-[![](https://img.shields.io/github/deployments/anydigital/bladeswitch/github-pages?logo=jekyll&label=Deploy&labelColor=black&style=for-the-badge)](https://github.com/new?template_name=bladeswitch&template_owner=anydigital "Deploy Bladeswitch using Jekyll on GitHub Pages")
-[![](https://img.shields.io/netlify/ec716489-5d5d-43cb-9fa1-892f8479436e?logo=eleventy&label=Deploy&labelColor=black&style=for-the-badge)](https://app.netlify.com/start/deploy?repository=https://github.com/anydigital/bladeswitch "Deploy Bladeswitch using 11ty on Netlify")
+[![](https://img.shields.io/badge/Demo-darkslategray?style=for-the-badge)](https://bladeswitch.com/)
+[![](https://img.shields.io/github/deployments/anydigital/bladeswitch/github-pages?logo=jekyll&label=Deploy&labelColor=darkslategray&style=for-the-badge)](https://github.com/new?template_name=bladeswitch&template_owner=anydigital "Deploy Bladeswitch using Jekyll on GitHub Pages")
+[![](https://img.shields.io/netlify/ec716489-5d5d-43cb-9fa1-892f8479436e?logo=eleventy&label=Deploy&labelColor=darkslategray&style=for-the-badge)](https://app.netlify.com/start/deploy?repository=https://github.com/anydigital/bladeswitch "Deploy Bladeswitch using 11ty on Netlify")
 [![](https://img.shields.io/badge/Code-gainsboro?logo=github&logoColor=black&style=for-the-badge)](https://github.com/anydigital/bladeswitch)
 [![](https://img.shields.io/github/stars/anydigital/bladeswitch?label=Star&labelColor=gainsboro&color=silver&style=for-the-badge)](https://github.com/anydigital/bladeswitch)
 
