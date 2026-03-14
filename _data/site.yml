@@ -12,7 +12,7 @@ scripts:
   - https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-core.min.js
   - https://cdn.jsdelivr.net/npm/prismjs@1/plugins/treeview/prism-treeview.min.js
 footer: |-
-  Made with hot <i class="fa-solid fa-mug-hot"></i>
+  Made with hot ☕️
   & sharp [Blades](https://github.com/anydigital/blades)
   © [*Any*digital](https://any.digital/) 2026
 
