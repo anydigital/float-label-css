@@ -90,3 +90,9 @@ Any browser with `:placeholder-shown` CSS pseudo-class: http://caniuse.com/#feat
 All non-supporting browsers will fall back to the static layout (w/o animation).
 
 => Can be used in ANY browser *as is*!
+
+---
+
+Featured by:
+
+- https://github.com/uptonking/note4yaoo/blob/main/toc/toc-lib-css-only.md#css-tools
