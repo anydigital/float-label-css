@@ -96,3 +96,4 @@ All non-supporting browsers will fall back to the static layout (w/o animation).
 Featured by:
 
 - https://github.com/uptonking/note4yaoo/blob/main/toc/toc-lib-css-only.md#css-tools
+- https://github.com/pryley/float-labels.js
