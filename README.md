@@ -17,19 +17,17 @@ Easy to start, easy to switch:
 
 It allows you to develop locally without [Ruby friction](https://any.digital/tricks/ruby/) (thanks to 11ty), and deploy natively to GitHub Pages using built-in Jekyll engine — no GitHub Actions required!
 
-Now, also includes [Sveltia CMS](https://github.com/sveltia/sveltia-cms). All of this — with only <big>3</big> direct dependencies:
+Also includes [Sveltia CMS](https://github.com/sveltia/sveltia-cms). All of this — with only <big>3</big> direct dependencies:
 
 ## Minimal dependencies <a id="minimal-dependencies"></a>
 
 <table class="borderless">
   <tr>
     <th>
-      🥷 × <big>Jekyll</big>&nbsp;
-      <sup><a href="https://anydigital.github.io/bladeswitch/" target="_blank">PREVIEW</a></sup>
+      🥷 × <a href="https://anydigital.github.io/bladeswitch/" target="_blank"><big>Jekyll</big></a>
     </th>
     <th>
-      🥷 × <big>Build Awesome / 11ty</big>&nbsp;
-      <sup><a href="https://bladeswitch.netlify.app/" target="_blank">PREVIEW</a></sup>
+      🥷 × <a href="https://bladeswitch.netlify.app/" target="_blank"><big>11ty</big> (Build Awesome)</a>
     </th>
   </tr>
   <tr>
