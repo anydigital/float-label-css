@@ -7,7 +7,7 @@ permalink: /
 <big>Ultra-lightweight [Blades](https://github.com/anydigital/blades) starter compatible with _BOTH_ Jekyll⇋and⇋11ty (Build Awesome) at the same time.</big>
 
 [![](https://img.shields.io/github/deployments/anydigital/bladeswitch/github-pages?logo=jekyll&label=Demo&labelColor=darkslategray&style=for-the-badge)](https://anydigital.github.io/bladeswitch/)
-[![](https://img.shields.io/netlify/ec716489-5d5d-43cb-9fa1-892f8479436e?logo=eleventy&label=Demo&labelColor=darkslategray&style=for-the-badge)](https://bladeswitch.com/)
+[![](https://img.shields.io/netlify/ec716489-5d5d-43cb-9fa1-892f8479436e?logo=eleventy&label=Demo&labelColor=darkslategray&style=for-the-badge)](https://anydigital.github.io/bladeswitch/)
 [![](https://img.shields.io/badge/Code-gainsboro?logo=github&logoColor=black&style=for-the-badge)](https://github.com/anydigital/bladeswitch)
 [![](https://img.shields.io/github/stars/anydigital/bladeswitch?label=Star&labelColor=gainsboro&color=silver&style=for-the-badge)](https://github.com/anydigital/bladeswitch)
 
@@ -42,7 +42,7 @@ Also includes [Sveltia CMS](https://github.com/sveltia/sveltia-cms). All of this
   </tr>
   <tr>
     <td colspan="2">
-      <pre><h3>2. <a href="https://github.com/anydigital/blades" target="_blank">blades<small>-theme</small></a></h3><sup
+      <pre><h3>2. <a href="https://github.com/anydigital/blades" target="_blank">blades<small>.css⁺</small></a></h3><sup
       >as remote_theme via <a href="https://github.com/anydigital/bladeswitch/blob/main/_config.yml#L1" target="_blank">_config.yml</a
       > or via <a href="https://github.com/anydigital/bladeswitch/blob/main/package.json" target="_blank">package.json</a> for 11ty</sup></pre>
     </td>
