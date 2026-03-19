@@ -13,7 +13,7 @@ scripts:
   - https://cdn.jsdelivr.net/npm/prismjs@1/plugins/treeview/prism-treeview.min.js
 footer: |-
   Made with hot ☕️
-  & sharp [Blades](https://github.com/anydigital/blades)
+  & sharp [Blades](https://blades.ninja/)
   © [*Any*digital](https://any.digital/) 2026
 
   [![](https://img.shields.io/github/stars/anydigital/bladeswitch?label=🥷&logo=%20)](https://github.com/anydigital/bladeswitch)
