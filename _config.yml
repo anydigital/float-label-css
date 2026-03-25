@@ -1,4 +1,4 @@
-remote_theme: anydigital/blades@v0.27.0-alpha.6
+remote_theme: anydigital/blades@v0.27.0-beta.6
 plugins:
   - jekyll-remote-theme
 # theme: blades
