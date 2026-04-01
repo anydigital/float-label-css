@@ -3,6 +3,7 @@ label:has(
   textarea,
   select
 ) {
+  display: block;
   position: relative;
 
   > span {
@@ -13,7 +14,7 @@ label:has(
     font-size: 75%;
     opacity: 1;
     transition: all 0.2s;
-    padding-inline-start: 1rem; /* match Pico */
+    padding-inline-start: calc(1rem + 1px); /* match Pico's padding + border */
     padding-block-start: 0.25rem;
   }
 
@@ -21,6 +22,7 @@ label:has(
   textarea,
   select {
     margin-block-start: 0;
+    padding-inline-start: 1rem; /* match Pico */
     padding-block: 1.125rem 0.375rem; /* match Pico's total: 2 x 0.75rem = 1.5rem */
 
     &::placeholder {
