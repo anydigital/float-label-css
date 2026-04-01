@@ -1,8 +1,0 @@
-{
-  "mappings": [
-    {
-      "src": "scss",
-      "dest": "dist"
-    }
-  ]
-}
