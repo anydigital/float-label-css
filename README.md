@@ -15,10 +15,10 @@ Bulletproof CSS-only implementation of Float Label pattern with automatic fallba
 
 <!--section:docs-->
 
-- [Float Label CSS **only**](https://codepen.io/tonystar/pen/JRLaKw) (without any framework)
-- [**Pico** + Float Label via Blades CSS](https://blades.ninja/css/float-label/#demo)
-- [**Bootstrap v4** + Float Label CSS](https://codepen.io/tonystar/pen/LRdpYZ)
-<!-- - [Tailwind v4 + Float Label CSS](https://codepen.io/tonystar/pen/ALaZrV) -->
+- [Float Label v2 **only**](https://codepen.io/tonystar/pen/JRLaKw) (without any framework)
+- [**Pico** + Float Label v2 via Blades CSS](https://blades.ninja/css/float-label/#demo)
+<!-- - [Tailwind v4 + Float Label v2](https://codepen.io/tonystar/pen/ALaZrV) -->
+- 📦 [**Bootstrap v4** + Float Label v1](https://codepen.io/tonystar/pen/LRdpYZ)
 
 ---
 
