@@ -93,9 +93,9 @@ Alternatively wrap `<label>` and `<input>` inside `.has-float-label`:
 
 ## Browser support
 
-Any browser with `:placeholder-shown` CSS pseudo-class: http://caniuse.com/#feat=css-placeholder-shown.
+Any browser with https://caniuse.com/css-placeholder-shown, https://caniuse.com/css-has and https://caniuse.com/css-nesting.
 
-All non-supporting browsers will fall back to the static layout (w/o animation).
+All non-supporting browsers should gracefully fall-back to the default layout.
 
 => Can be used in ANY browser _as is_!
 
