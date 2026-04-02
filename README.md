@@ -105,7 +105,7 @@ Alternatively wrap `<label>` and `<input>` inside `.has-float-label`:
 
 - [Matt D. Smith](https://x.com/mds) for [original pattern](https://dribbble.com/shots/1254439--GIF-Float-Label-Form-Interaction)
 - Emil Björklund for [`:placeholder-shown`](https://thatemil.com/blog/2016/01/23/floating-label-no-js-pure-css/)
-- [Anton Staroverov](https://x.com/AntonStarovero_) for [`:has(*:placeholder-shown:not(:focus)) label`](https://blades.ninja/css/float-label/#ps-how-it-works)
+- [Anton Staroverov](https://x.com/AntonStarovero_) for [`:has(*:placeholder-shown:not(:focus)) label`](https://blades.ninja/css/float-label/#how)
   - to finally support labels before input fields
   - instead of [`input:focus + label`](https://css-tricks.com/float-labels-css/) used previously
 
