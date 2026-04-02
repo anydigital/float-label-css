@@ -60,7 +60,7 @@ Or with all [CSS Blades](https://blades.ninja/css/) included:
 
 ## Usage
 
-Simple place `<input>` inside `<label>` to enable float label:
+Simply place `<input>` inside `<label>` to enable float label:
 
 ```html
 <label>
