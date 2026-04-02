@@ -13,13 +13,13 @@ Bulletproof CSS-only implementation of Float Label pattern with automatic fallba
 
 ## Demo
 
-- [**Pico** + Float Label v2 via Blades CSS](https://blades.ninja/css/float-label/#demo)
-- 📦 [**Bootstrap v4** + Float Label v1](https://codepen.io/tonystar/pen/LRdpYZ)
+- [**Pico** + Float Label CSS v2 via Blades](https://blades.ninja/css/float-label/#demo)
+- 📦 [**Bootstrap v4** + Float Label CSS v1](https://codepen.io/tonystar/pen/LRdpYZ)
 
 <!--section:docs-->
 
-- [Float Label v2 **only**](https://codepen.io/tonystar/pen/JRLaKw) (without any framework)
-<!-- - [Tailwind v4 + Float Label v2](https://codepen.io/tonystar/pen/ALaZrV) -->
+- [Float Label CSS v2 **only**](https://codepen.io/tonystar/pen/JRLaKw) (without any framework)
+<!-- - [Tailwind v4 + Float Label CSS v2](https://codepen.io/tonystar/pen/ALaZrV) -->
 
 ---
 
