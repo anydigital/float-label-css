@@ -88,7 +88,8 @@ Alternatively wrap `<label>` and `<input>` inside `.has-float-label`:
 
 - Matt D. Smith for [original pattern](https://dribbble.com/shots/1254439--GIF-Float-Label-Form-Interaction)
 - Emil Björklund for [`:placeholder-shown`](https://thatemil.com/blog/2016/01/23/floating-label-no-js-pure-css/)
-- [Anton Staroverov](https://x.com/AntonStarovero_) for `:has(*:placeholder-shown:not(:focus)) label` to finally support label before input, and replace [`input:focus + label`](https://css-tricks.com/float-labels-css/)
+- [Anton Staroverov](https://x.com/AntonStarovero_) for `:has(*:placeholder-shown:not(:focus)) label` to finally support label before input
+  - and replace [`input:focus + label`](https://css-tricks.com/float-labels-css/) used previously
 
 ## Browser support
 
