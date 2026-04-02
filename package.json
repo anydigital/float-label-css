@@ -1,19 +1,16 @@
 {
   "name": "float-label-css",
-  "version": "1.0.2",
+  "version": "2.0.0-dev",
   "description": "Bulletproof CSS-only implementation of Float Label pattern with automatic fallback for ANY non-supporting browser.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tonystar/float-label-css.git"
+    "url": "https://github.com/anydigital/float-label-css.git"
   },
   "keywords": [
     "float-label",
     "css-only"
   ],
-  "author": "Anton Staroverov (https://tonystar.me)",
+  "author": "Anton Staroverov",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/tonystar/float-label-css/issues"
-  },
-  "homepage": "https://github.com/tonystar/float-label-css#readme"
+  "homepage": "https://blades.ninja/css/float-label/"
 }
