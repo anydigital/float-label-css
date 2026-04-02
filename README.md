@@ -9,7 +9,7 @@ Bulletproof classless CSS-only implementation of Float Label pattern with automa
 
 <!--section:gh-only-->
 
-<img src="float-label-css-v2.gif" width="600">
+[<img src="float-label-css-v2.gif" width="600">](https://blades.ninja/css/float-label/#demo)
 
 ## Demo
 
