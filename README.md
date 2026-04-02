@@ -3,24 +3,36 @@
 [![](https://img.shields.io/badge/Demo_&_Docs-darkslategray?style=for-the-badge)](https://blades.ninja/css/float-label/)
 [![](https://img.shields.io/github/stars/anydigital/float-label-css?label=Star&labelColor=gainsboro&color=silver&style=for-the-badge)](https://github.com/anydigital/float-label-css)
 
+<!--section:summary-->
+
 Bulletproof CSS-only implementation of Float Label pattern with automatic fallback for ANY non-supporting browser.
+
+<!--section:gh-only-->
+
+<img src="https://cdn.rawgit.com/tonystar/float-label-css/9dd8582/float-label-css.gif" width="400"/>
+
+## Demo
+
+<!--section:docs-->
+
+- [Float Label CSS **only**](https://codepen.io/tonystar/pen/JRLaKw) (without any framework)
+- [**Pico** + Float Label via Blades CSS](https://blades.ninja/css/float-label/#demo)
+- [**Bootstrap v4** + Float Label CSS](https://codepen.io/tonystar/pen/LRdpYZ)
+<!-- - [Tailwind v4 + Float Label CSS](https://codepen.io/tonystar/pen/ALaZrV) -->
+
+---
+
+## Killer features
 
 - No JS — pure CSS
 - No hacks with `required` and `:valid`  
   ↳ HTML5 validation support
 - Compatible with `<select>` and `<textarea>` fields
 - No need to define `for="..."` attribute on `<label>`
-- <mark>NEW in v2</mark>&nbsp; Finally, the text label can be placed BEFORE the input field
-- <mark>NEW in v2</mark>&nbsp; Class-less!
+- <mark>NEW</mark> in **v2:** Finally, the text label can be placed BEFORE the input field!
+- <mark>NEW</mark> in **v2:** Class-less!
 
-<img src="https://cdn.rawgit.com/tonystar/float-label-css/9dd8582/float-label-css.gif" width="400"/>
-
-## Demo
-
-- [Zero-dependencies float labels demo](https://codepen.io/tonystar/pen/JRLaKw)
-- [Pico float labels demo](https://blades.ninja/css/float-label/)
-- [Bootstrap 4 float labels demo](https://codepen.io/tonystar/pen/LRdpYZ)
-<!-- - [Tailwind float labels demo](https://codepen.io/tonystar/pen/ALaZrV)-->
+---
 
 ## Install
 
@@ -58,6 +70,8 @@ Or with all [CSS Blades](https://blades.ninja/css/) included:
 @import "@anydigital/blades";
 ```
 
+---
+
 ## Usage
 
 Simply place `<input>` inside `<label>` to enable float label:
@@ -71,7 +85,7 @@ Simply place `<input>` inside `<label>` to enable float label:
 
 > **NOTE:** W3C [allows this](http://www.w3.org/TR/html401/interact/forms.html#edef-LABEL)!
 
----
+<div><hr></div>
 
 Alternatively wrap `<label>` and `<input>` inside `.has-float-label`:
 
@@ -84,12 +98,17 @@ Alternatively wrap `<label>` and `<input>` inside `.has-float-label`:
 
 > **NOTE**: `for="..."` attribute is required on `<label>` in this case
 
+---
+
 ## Credits
 
 - Matt D. Smith for [original pattern](https://dribbble.com/shots/1254439--GIF-Float-Label-Form-Interaction)
 - Emil Björklund for [`:placeholder-shown`](https://thatemil.com/blog/2016/01/23/floating-label-no-js-pure-css/)
-- [Anton Staroverov](https://x.com/AntonStarovero_) for `:has(*:placeholder-shown:not(:focus)) label` to finally support label before input
-  - and replace [`input:focus + label`](https://css-tricks.com/float-labels-css/) used previously
+- [Anton Staroverov](https://x.com/AntonStarovero_) for `:has(*:placeholder-shown:not(:focus)) label`
+  - to finally support labels before input fields
+  - instead of [`input:focus + label`](https://css-tricks.com/float-labels-css/) used previously
+
+---
 
 ## Browser support
 
