@@ -1,4 +1,4 @@
-# 🥷 Pure-CSS Float Label. Finally. <sup>![](https://img.shields.io/github/v/release/anydigital/float-label-css?label=&color=black&include_prereleases)</sup>
+# 🥷 Classless semantic CSS Float Label. Finally. <sup>![](https://img.shields.io/github/v/release/anydigital/float-label-css?label=&color=black&include_prereleases)</sup>
 
 [![](https://img.shields.io/badge/Demo_&_Docs-darkslategray?style=for-the-badge)](https://blades.ninja/css/float-label/)
 [![](https://img.shields.io/github/stars/anydigital/float-label-css?label=Star&labelColor=gainsboro&color=silver&style=for-the-badge)](https://github.com/anydigital/float-label-css)
