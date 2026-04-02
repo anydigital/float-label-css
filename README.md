@@ -9,7 +9,7 @@ Bulletproof classless CSS-only implementation of Float Label pattern with automa
 
 <!--section:gh-only-->
 
-<img src="https://cdn.rawgit.com/tonystar/float-label-css/9dd8582/float-label-css.gif" width="400"/>
+<img src="float-label-css-v2.gif" width="600">
 
 ## Demo
 
