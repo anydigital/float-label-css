@@ -126,3 +126,9 @@ Featured by:
 - https://github.com/pryley/float-labels.js
 - https://github.com/uptonking/note4yaoo/blob/main/toc/toc-lib-css-only.md#css-tools
 - https://github.com/bcgov/moh-fpcare `package.json`
+
+<!--section:gh-only-->
+
+---
+
+## PS: [How it works?](https://blades.ninja/css/float-label/#how)
