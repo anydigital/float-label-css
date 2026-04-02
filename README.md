@@ -5,7 +5,7 @@
 
 <!--section:summary-->
 
-Bulletproof CSS-only implementation of Float Label pattern with automatic fallback for ANY non-supporting browser.
+Bulletproof classless CSS-only implementation of Float Label pattern with automatic fallback for ANY non-supporting browser.
 
 <!--section:gh-only-->
 
