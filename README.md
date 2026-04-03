@@ -15,7 +15,7 @@ Bulletproof classless CSS-only implementation of Float Label pattern with automa
 
 - [**Pico** + Float Label CSS v2 via Blades](https://blades.ninja/css/float-label/#demo)
 
-<!--section:docs-->
+<!--section:docs-demo-install-->
 
 - [**Tailwind v4** + Float Label CSS v2](https://codepen.io/tonystar/pen/ALaZrV)
 - [Float Label CSS v2 **only**](https://codepen.io/tonystar/pen/JRLaKw) (without any CSS framework)
@@ -38,18 +38,11 @@ Bulletproof classless CSS-only implementation of Float Label pattern with automa
 
 <mark>Via CDN:</mark>
 
-Just **Float Label CSS**:
-
 <!--prettier-ignore-->
 ```html
-<link href="https://cdn.jsdelivr.net/npm/@anydigital/blades@^0.27.0-beta/assets/float-label.min.css" rel="stylesheet" />
-```
-
-Or with all [CSS Blades](https://blades.ninja/css/) included:
-
-<!--prettier-ignore-->
-```html
-<link href="https://cdn.jsdelivr.net/npm/@anydigital/blades@^0.27.0-beta/assets/blades.min.css" rel="stylesheet" />
+<link rel="stylesheet" href="
+  https://cdn.jsdelivr.net/npm/@anydigital/blades@^0.27.0-beta/assets/float-label.min.css
+">
 ```
 
 <mark>Via npm:</mark>
@@ -58,17 +51,19 @@ Or with all [CSS Blades](https://blades.ninja/css/) included:
 npm install @anydigital/blades
 ```
 
-Then import just **Float Label CSS**:
+Then in your `.css`:
 
 ```css
 @import "@anydigital/float-label";
 ```
 
-Or with all [CSS Blades](https://blades.ninja/css/) included:
+<mark>Via [Blades](https://blades.ninja/css/#install):</mark>
 
-```css
-@import "@anydigital/blades";
-```
+<!--section:gh-only-->
+
+https://blades.ninja/css/#install
+
+<!--section:docs-->
 
 ---
 
@@ -121,6 +116,7 @@ All non-supporting browsers should gracefully fall-back to the default layout.
 ---
 
 Featured by:
+
 - https://github.com/dbohdan/classless-css
 - https://github.com/pryley/float-labels.js
 - https://github.com/uptonking/note4yaoo/blob/main/toc/toc-lib-css-only.md#css-tools
