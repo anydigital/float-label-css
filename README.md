@@ -14,7 +14,6 @@ Bulletproof classless CSS-only implementation of Float Label pattern with automa
 ## Demo
 
 - [**Pico** + Float Label CSS v2 via Blades](https://blades.ninja/css/float-label/#demo)
-- 📦 [**Bootstrap v4** + Float Label CSS v1](https://codepen.io/tonystar/pen/LRdpYZ)
 
 <!--section:docs-->
 
