@@ -18,7 +18,7 @@ Bulletproof classless CSS-only implementation of Float Label pattern with automa
 <!--section:docs-->
 
 - [**Tailwind v4** + Float Label CSS v2](https://codepen.io/tonystar/pen/ALaZrV)
-- [Float Label CSS v2 **only**](https://codepen.io/tonystar/pen/JRLaKw) (without any framework)
+- [Float Label CSS v2 **only**](https://codepen.io/tonystar/pen/JRLaKw) (without any CSS framework)
 
 ---
 
