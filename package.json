@@ -4,11 +4,12 @@
   "description": "Bulletproof CSS-only implementation of Float Label pattern with automatic fallback for ANY non-supporting browser.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/anydigital/float-label-css.git"
+    "url": "https://github.com/anyblades/float-label-css.git"
   },
   "keywords": [
     "float-label",
-    "css-only"
+    "css-only",
+    "classless"
   ],
   "author": "Anton Staroverov",
   "license": "MIT",
