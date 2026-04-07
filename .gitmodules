@@ -1,4 +1,4 @@
 [submodule "src"]
 	path = src
-	url = https://github.com/anydigital/blades.git
+	url = https://github.com/anyblades/blades.git
 	branch = main

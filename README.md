@@ -1,7 +1,7 @@
-# 🥷 Classless CSS-only Float Label. Finally. <sup>![](https://img.shields.io/github/v/release/anydigital/float-label-css?label=&color=black&include_prereleases)</sup>
+# 🥷 Classless CSS-only Float Label. Finally. <sup>![](https://img.shields.io/github/v/release/anyblades/float-label-css?label=&color=black&include_prereleases)</sup>
 
 [![](https://img.shields.io/badge/Demo_&_Docs-darkslategray?style=for-the-badge)](https://blades.ninja/css/float-label/)
-[![](https://img.shields.io/github/stars/anydigital/float-label-css?label=Star&labelColor=gainsboro&color=silver&style=for-the-badge)](https://github.com/anydigital/float-label-css)
+[![](https://img.shields.io/github/stars/anyblades/float-label-css?label=Star&labelColor=gainsboro&color=silver&style=for-the-badge)](https://github.com/anyblades/float-label-css)
 
 <!--section:summary-->
 
@@ -41,20 +41,20 @@ Bulletproof classless CSS-only implementation of Float Label pattern with automa
 <!--prettier-ignore-->
 ```html
 <link rel="stylesheet" href="
-  https://cdn.jsdelivr.net/npm/@anydigital/blades@^0.27.0-beta/assets/float-label.min.css
+  https://cdn.jsdelivr.net/npm/@anyblades/blades@^0.27.0-beta/assets/float-label.min.css
 ">
 ```
 
 <mark>Via npm:</mark>
 
 ```sh
-npm install @anydigital/blades
+npm install @anyblades/blades
 ```
 
 Then in your `.css`:
 
 ```css
-@import "@anydigital/float-label";
+@import "@anyblades/float-label";
 ```
 
 <mark>Via [Blades](https://blades.ninja/css/#install):</mark>
