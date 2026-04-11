@@ -1,17 +1,18 @@
-# 🥷 Classless CSS-only Float Label. Finally. <sup>![](https://img.shields.io/github/v/release/anyblades/float-label-css?label=&color=black&include_prereleases)</sup>
-
-[![](https://img.shields.io/badge/Demo_&_Docs-darkslategray?style=for-the-badge)](https://blades.ninja/css/float-label/)
-[![](https://img.shields.io/github/stars/anyblades/float-label-css?label=Star&labelColor=gainsboro&color=silver&style=for-the-badge)](https://github.com/anyblades/float-label-css)
+# 🥷 Classless CSS-only Float Label. Finally.
 
 <!--section:summary-->
 
 Bulletproof classless CSS-only implementation of Float Label pattern with automatic fallback for ANY non-supporting browser.
 
+![](https://img.shields.io/github/v/release/anyblades/float-label-css?label=&color=darkslategray&style=for-the-badge&include_prereleases)
+[![](https://img.shields.io/badge/Code-gainsboro?logo=github&logoColor=black&style=for-the-badge)](https://github.com/anyblades/float-label-css)
+[![](https://img.shields.io/github/stars/anyblades/float-label-css?label=Star&labelColor=gainsboro&color=silver&style=for-the-badge)](https://github.com/anyblades/float-label-css)
+
 <!--section:gh-only-->
 
-[<img src="float-label-css-v2.gif" width="600">](https://blades.ninja/css/float-label/#demo)
+## [Docs & Demos →](https://blades.ninja/css/float-label/)
 
-## Demo
+[<img src="float-label-css-v2.gif" width="600">](https://blades.ninja/css/float-label/#demo)
 
 - [**Pico** + Float Label CSS v2 via Blades](https://blades.ninja/css/float-label/#demo)
 
