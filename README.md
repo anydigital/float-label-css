@@ -58,11 +58,11 @@ Then in your `.css`:
 @import "@anyblades/float-label";
 ```
 
-<mark>Via [Blades](https://blades.ninja/css/#install):</mark>
+<mark>Via [Blades](https://blades.ninja/):</mark>
 
 <!--section:gh-only-->
 
-https://blades.ninja/css/#install
+https://github.com/anyblades/blades
 
 <!--section:docs-->
 
