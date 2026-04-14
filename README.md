@@ -10,16 +10,17 @@ Bulletproof classless CSS-only implementation of Float Label pattern with automa
 
 <!--section:gh-only-->
 
-## [Docs & Demos →](https://blades.ninja/css/float-label/)
+## [Demo & docs ↗](https://blades.ninja/css/float-label/#demo)
 
 [<img src="float-label-css-v2.gif" width="600">](https://blades.ninja/css/float-label/#demo)
 
-- [**Pico** + Float Label CSS v2 via Blades](https://blades.ninja/css/float-label/#demo)
-
 <!--section:docs-demo-install-->
 
+Examples:
+
+- [**Pico + *Bl*ades** with Float Label CSS v2 included](https://blades.ninja/css/float-label/#demo)
 - [**Tailwind v4** + Float Label CSS v2](https://codepen.io/tonystar/pen/ALaZrV)
-- [Float Label CSS v2 **only**](https://codepen.io/tonystar/pen/JRLaKw) (without any CSS framework)
+- [**Float Label CSS v2 only**](https://codepen.io/tonystar/pen/JRLaKw) (no CSS frameworks)
 
 ---
 
@@ -35,18 +36,18 @@ Bulletproof classless CSS-only implementation of Float Label pattern with automa
 
 ---
 
-## Install
+## Install <!-- same as https://raw.githubusercontent.com/anyblades/blades/refs/heads/main/README.md -->
 
-<mark>Via CDN:</mark>
+###### <mark>Via CDN</mark>
 
 <!--prettier-ignore-->
 ```html
 <link rel="stylesheet" href="
-  https://cdn.jsdelivr.net/npm/@anyblades/blades@^0.27.0-beta/assets/float-label.min.css
+  https://cdn.jsdelivr.net/npm/@anyblades/blades@^0.28.0-alpha/assets/blades.min.css
 ">
 ```
 
-<mark>Via npm:</mark>
+###### <mark>Via npm</mark>
 
 ```sh
 npm install @anyblades/blades
@@ -58,11 +59,10 @@ Then in your `.css`:
 @import "@anyblades/float-label";
 ```
 
-<mark>Via [Blades](https://blades.ninja/):</mark>
+###### <mark>Prepackaged</mark>
 
-<!--section:gh-only-->
-
-https://github.com/anyblades/blades
+- Blades: https://github.com/anyblades/blades
+- Pico: https://github.com/anyblades/pico
 
 <!--section:docs-->
 
@@ -79,7 +79,7 @@ Simply place `<input>` inside `<label>` to enable float label:
 </label>
 ```
 
-> **NOTE:** W3C [allows this](http://www.w3.org/TR/html401/interact/forms.html#edef-LABEL)!
+**NOTE:** W3C [allows this](http://www.w3.org/TR/html401/interact/forms.html#edef-LABEL)!
 
 <div><hr></div>
 
@@ -92,7 +92,7 @@ Alternatively wrap `<label>` and `<input>` inside `.has-float-label`:
 </div>
 ```
 
-> **NOTE**: `for="..."` attribute is required on `<label>` in this case
+**NOTE**: `for="..."` attribute is required on `<label>` in this case
 
 ---
 
