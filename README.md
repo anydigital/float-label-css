@@ -56,7 +56,7 @@ npm install @anyblades/blades
 Then in your `.css`:
 
 ```css
-@import "@anyblades/float-label";
+@import "@anyblades/blades/float-label";
 ```
 
 <!--section:gh-only-->
