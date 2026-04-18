@@ -59,10 +59,12 @@ Then in your `.css`:
 @import "@anyblades/float-label";
 ```
 
-###### <mark>Prepackaged</mark>
+<!--section:gh-only-->
 
-- Blades: https://github.com/anyblades/blades
-- Pico: https://github.com/anyblades/pico
+###### <mark>Included with</mark>
+
+- https://github.com/anyblades/blades 🥷
+- https://github.com/anyblades/pico ✨
 
 <!--section:docs-->
 
